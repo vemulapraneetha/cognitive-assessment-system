@@ -1,13 +1,13 @@
-# 🧠 Cognitive Assessment System
+# Cognitive Assessment System
 
 An AI-powered cognitive assessment platform using:
-- 🎤 Audio analysis
-- 🧠 EEG processing
-- 🎮 Cognitive games
-- 📱 Flutter mobile app (Android)
-- 🔌 Flask backend
+- Audio analysis
+- EEG processing
+- Cognitive games
+- Flutter mobile app (Android)
+- Flask backend
 
-## 🚀 Run Locally
+## Run Locally
 
 ### Quick Start (One Command)
 
